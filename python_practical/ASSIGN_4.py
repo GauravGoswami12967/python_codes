@@ -1,9 +1,12 @@
-def swapNumbers(a,b):
+'''Write python program that swap two number with temp variable
+and without temp variable.'''
+
+def swapNumbers(a,b): #with temp
     temp=a
     a=b
     b=temp
     return a,b
-def swapNumberstwo(a,b):
+def swapNumberstwo(a,b): # without temp
     a=a+b
     b=a-b
     a=a-b
