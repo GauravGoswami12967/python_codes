@@ -1,3 +1,5 @@
+'''Write a Python program to get the Fibonacci series of given range.'''
+
 def fibonacci(n):
     if n==0 or n==1:
         return n
@@ -11,4 +13,4 @@ def fibonacci(n):
       print(c,end=" ")
       count+=1
      
-fibonacci(0)
+fibonacci(5)
