@@ -1,4 +1,7 @@
-# yourNumber=int(input("enter a number for a factorial you want.."))
+
+'''Write a Python program to get the Factorial number of given numbers.'''
+
+# yourNumber=int(input("enter a number for a factorial you want..")) #mathod 1
 # result=1
 # for i in range(1,yourNumber+1):
 #     result*=i
