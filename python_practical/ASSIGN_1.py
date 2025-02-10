@@ -1,3 +1,6 @@
+'''Write a Python program to check if a number is positive, negative or
+zero.'''
+
 UserNumber=int(input("enter a number you want to check..  "))
 FixedValue=0
 if(UserNumber!=0):
